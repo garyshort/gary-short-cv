@@ -1,7 +1,9 @@
 # Gary Short
 
 📧 [gary@darach.ai](mailto:gary@darach.ai)
-🔗 linkedin.com/in/garyshort
+🔗 [LinkedIn](https://www.linkedin.com/in/garyshort)
+📅 [Book a Call](https://calendly.com/gary-darach/)
+💻 [GitHub](https://github.com/garyshort)
 
 # Principal AI Engineer | AI Architect | Generative AI & LLM Systems
 
